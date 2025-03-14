@@ -1,7 +1,46 @@
 ---
-title: "BigDataProj"
+title: "Meu Portfólio de Ciência de Dados"
+format: html
 ---
 
-This is a Quarto website.
+<div style="text-align: center;">
+  <img src="imagens/teste.jpeg" alt="Foto de Eduardo de Oliveira Pereira" width="180" style="border-radius: 50%;">
+</div>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# 👋 Olá, eu sou Eduardo!
+
+Estudante de **Ciência de Dados**, entusiasta de **Machine Learning e Inteligência Artificial**. Busco transformar dados em insights estratégicos, combinando análise estatística e modelagem preditiva.
+
+## 🚀 Habilidades
+- **Linguagens:** Python, SQL, R  
+- **Bibliotecas e Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow  
+- **Banco de Dados:** PostgreSQL, MySQL  
+- **Visualização de Dados:** Power BI, Matplotlib, Seaborn  
+- **Técnicas:** Modelagem Preditiva, Regressão Logística, Regressão Linear, Machine Learning 
+
+---
+
+## 💼 **Experiência Profissional**
+### 📊 **Estagiário de Data Analytics e CRM Governance** | CNH Industrial | 2024 - Presente
+- Desenvolvimento de modelos de **Machine Learning** para previsão de tendências.  
+- Implementação de **ETL** e automação de processos de dados.  
+- Construção de **dashboards interativos** para visualização de métricas.  
+
+---
+
+## 🎓 **Formação Acadêmica**
+🎓 **Bacharelado em Ciência de Dados** – FAE Centro Universitário, 2023 - Presente  
+
+---
+
+## 📜 **Certificações**
+🏆 **Machine Learning – Udemy** *(Em Curso)*  
+🏆 **Deep Learning – Udemy** *(Em Curso)*  
+🏆 **Power BI – Data Science Academy** *(2024)*  
+
+---
+
+## 📫 Contato
+📧 Email: eduardo.olvieira1504@outlook.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-oliveira-pereira/) | [GitHub](https://github.com/eduoliveira1504)
+

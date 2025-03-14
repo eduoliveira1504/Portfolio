@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Meu Portfólio de Ciência de Dados",
+    "section": "",
+    "text": "title: “Meu Portfólio de Ciência de Dados” author: “Eduardo de Oliveira Pereira” date: today format: html"
+  },
+  {
+    "objectID": "index.html#habilidades",
+    "href": "index.html#habilidades",
+    "title": "Meu Portfólio de Ciência de Dados",
+    "section": "🚀 Habilidades",
+    "text": "🚀 Habilidades\n\nLinguagens: Python, SQL, R\n\nBibliotecas e Frameworks: Pandas, NumPy, Scikit-Learn, TensorFlow\n\nBanco de Dados: PostgreSQL, MySQL\n\nVisualização de Dados: Power BI, Matplotlib, Seaborn\n\nTécnicas: Modelagem Preditiva, Regressão Logística, Regressão Linear, Machine Learning"
+  },
+  {
+    "objectID": "index.html#contato",
+    "href": "index.html#contato",
+    "title": "Meu Portfólio de Ciência de Dados",
+    "section": "📫 Contato",
+    "text": "📫 Contato\n📧 Email: eduardo.olvieira1504@outlook.com\n🔗 LinkedIn | GitHub"
+  },
+  {
+    "objectID": "projetos.html",
+    "href": "projetos.html",
+    "title": "Projetos",
+    "section": "",
+    "text": "Aqui estão alguns dos projetos que desenvolvi.\n\n\n\nDescrição: Modelo para prever a presença de câncer de mama baseado em dados clínicos.\nTecnologias: Python, Scikit-Learn\n📎 Código no GitHub\n📎 Ver no StreamLit\n\n\n\n\n\nDescrição: Modelo básico de previsão de espécies de pinguins.\nTecnologias: Pytohn, Sckit-Learn\n📎 Ver no GitHub\n📎 Ver no StreamLit"
+  },
+  {
+    "objectID": "projetos.html#previsão-de-câncer-de-mama-com-regressão-logística",
+    "href": "projetos.html#previsão-de-câncer-de-mama-com-regressão-logística",
+    "title": "Projetos",
+    "section": "",
+    "text": "Descrição: Modelo para prever a presença de câncer de mama baseado em dados clínicos.\nTecnologias: Python, Scikit-Learn\n📎 Código no GitHub\n📎 Ver no StreamLit"
+  },
+  {
+    "objectID": "projetos.html#previsão-de-espécies-de-pinguins",
+    "href": "projetos.html#previsão-de-espécies-de-pinguins",
+    "title": "Projetos",
+    "section": "",
+    "text": "Descrição: Modelo básico de previsão de espécies de pinguins.\nTecnologias: Pytohn, Sckit-Learn\n📎 Ver no GitHub\n📎 Ver no StreamLit"
+  },
+  {
+    "objectID": "index.html#experiência-profissional",
+    "href": "index.html#experiência-profissional",
+    "title": "Meu Portfólio de Ciência de Dados",
+    "section": "💼 Experiência Profissional",
+    "text": "💼 Experiência Profissional\n\n📊 Estagiário de Data Analytics e CRM Governance | CNH Industrial | 2024 - Presente\n\nDesenvolvimento de modelos de Machine Learning para previsão de tendências.\n\nImplementação de ETL e automação de processos de dados.\n\nConstrução de dashboards interativos para visualização de métricas."
+  },
+  {
+    "objectID": "index.html#formação-acadêmica",
+    "href": "index.html#formação-acadêmica",
+    "title": "Meu Portfólio de Ciência de Dados",
+    "section": "🎓 Formação Acadêmica",
+    "text": "🎓 Formação Acadêmica\n🎓 Bacharelado em Ciência de Dados – FAE Centro Universitário, 2023 - Presente"
+  },
+  {
+    "objectID": "index.html#certificações",
+    "href": "index.html#certificações",
+    "title": "Meu Portfólio de Ciência de Dados",
+    "section": "📜 Certificações",
+    "text": "📜 Certificações\n🏆 Machine Learning – Udemy (Em Curso)\n🏆 Deep Learning – Udemy (Em Curso)\n🏆 Power BI – Data Science Academy (2024)"
+  }
+]

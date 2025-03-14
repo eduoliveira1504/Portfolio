@@ -1,0 +1,22 @@
+---
+title: "Projetos"
+format: html
+---
+
+# 📂 Meus Projetos
+
+Aqui estão alguns dos projetos que desenvolvi.
+
+## 📊 Previsão de Câncer de Mama com Regressão Logística
+- **Descrição:** Modelo para prever a presença de câncer de mama baseado em dados clínicos.
+- **Tecnologias:** Python, Scikit-Learn
+- 📎 [Código no GitHub](https://github.com/eduoliveira1504/streamlit-cancer-predict)
+- 📎 [Ver no StreamLit](https://app-cancer-predict-vdh2zbltgwvofguu8wziqi.streamlit.app/)
+
+## 📈 Previsão de espécies de pinguins
+- **Descrição:** Modelo básico de previsão de espécies de pinguins.
+- **Tecnologias:** Pytohn, Sckit-Learn
+- 📎 [Ver no GitHub](https://github.com/eduoliveira1504/Machine-Learning-App)
+- 📎 [Ver no StreamLit](https://machine-learning-app-rnfhqbtejkapdgrr5exbet.streamlit.app/)
+
+

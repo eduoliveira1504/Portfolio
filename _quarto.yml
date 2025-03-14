@@ -1,22 +1,25 @@
 project:
   type: website
-  output-dir: "."
+  output-dir: _site
 
 website:
-  title: "BigDataProj"
+  title: "Meu Portfólio"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Início
+      - href: projetos.qmd
+        text: Projetos
+    right:
+      - icon: github
+        href: "https://www.linkedin.com/in/eduardo-oliveira-pereira/"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/eduardo-oliveira-pereira/"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
 
 
 
