@@ -15,7 +15,7 @@ Aqui estão alguns dos projetos que desenvolvi.
 
 ## 📈 Previsão de espécies de pinguins
 - **Descrição:** Modelo básico de previsão de espécies de pinguins.
-- **Tecnologias:** Pytohn, Sckit-Learn
+- **Tecnologias:** Python, Sckit-Learn
 - 📎 [Ver no GitHub](https://github.com/eduoliveira1504/Machine-Learning-App)
 - 📎 [Ver no StreamLit](https://machine-learning-app-rnfhqbtejkapdgrr5exbet.streamlit.app/)
 
