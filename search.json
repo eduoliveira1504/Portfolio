@@ -4,7 +4,7 @@
     "href": "projetos.html",
     "title": "Projetos",
     "section": "",
-    "text": "Aqui estão alguns dos projetos que desenvolvi.\n\n\n\nDescrição: Modelo para prever a presença de câncer de mama baseado em dados clínicos.\nTecnologias: Python, Scikit-Learn\n📎 Código no GitHub\n📎 Ver no StreamLit\n\n\n\n\n\nDescrição: Modelo básico de previsão de espécies de pinguins.\nTecnologias: Python, Sckit-Learn\n📎 Ver no GitHub\n📎 Ver no StreamLit"
+    "text": "Aqui estão alguns dos projetos que desenvolvi.\n\n\n\nDescrição: Modelo para prever a presença de câncer de mama baseado em dados clínicos.\nTecnologias: Python, Scikit-Learn\n📎 Código no GitHub\n📎 Ver no StreamLit\n\n\n\n\n\nDescrição: Modelo básico de previsão de espécies de pinguins.\nTecnologias: Python, Sckit-Learn\n📎 Ver no GitHub\n📎 Ver no StreamLit\n\n\n\n\n\nDescrição: Dashboard feito em Python para visualização da bolsa de valores de empresas específicas, feito para a aula de Projeto Fincanceiro na faculdade.\nTecnologias: Python, YahooQuery\n📎 Ver no GitHub\n📎 Ver no StreamLit"
   },
   {
     "objectID": "projetos.html#previsão-de-câncer-de-mama-com-regressão-logística",
@@ -19,6 +19,13 @@
     "title": "Projetos",
     "section": "",
     "text": "Descrição: Modelo básico de previsão de espécies de pinguins.\nTecnologias: Python, Sckit-Learn\n📎 Ver no GitHub\n📎 Ver no StreamLit"
+  },
+  {
+    "objectID": "projetos.html#dashboard-de-visualização-financeira",
+    "href": "projetos.html#dashboard-de-visualização-financeira",
+    "title": "Projetos",
+    "section": "",
+    "text": "Descrição: Dashboard feito em Python para visualização da bolsa de valores de empresas específicas, feito para a aula de Projeto Fincanceiro na faculdade.\nTecnologias: Python, YahooQuery\n📎 Ver no GitHub\n📎 Ver no StreamLit"
   },
   {
     "objectID": "index.html#habilidades",
@@ -53,6 +60,6 @@
     "href": "index.html#contato",
     "title": "Meu Portfólio de Ciência de Dados",
     "section": "📫 Contato",
-    "text": "📫 Contato\n📧 Email: eduardo.olvieira1504@outlook.com\n🔗 LinkedIn | GitHub"
+    "text": "📫 Contato\n📧 Email: eduardo.olvieira1504@outlook.com 🔗 LinkedIn | GitHub"
   }
 ]

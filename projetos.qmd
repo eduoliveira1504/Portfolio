@@ -13,10 +13,16 @@ Aqui estão alguns dos projetos que desenvolvi.
 - 📎 [Código no GitHub](https://github.com/eduoliveira1504/streamlit-cancer-predict)
 - 📎 [Ver no StreamLit](https://app-cancer-predict-vdh2zbltgwvofguu8wziqi.streamlit.app/)
 
-## 📈 Previsão de espécies de pinguins
+## 🐧 Previsão de espécies de pinguins
 - **Descrição:** Modelo básico de previsão de espécies de pinguins.
 - **Tecnologias:** Python, Sckit-Learn
 - 📎 [Ver no GitHub](https://github.com/eduoliveira1504/Machine-Learning-App)
 - 📎 [Ver no StreamLit](https://machine-learning-app-rnfhqbtejkapdgrr5exbet.streamlit.app/)
+
+## 📈 Dashboard de visualização financeira
+- **Descrição:** Dashboard feito em Python para visualização da bolsa de valores de empresas específicas, feito para a aula de Projeto Fincanceiro na faculdade.
+- **Tecnologias:** Python, YahooQuery
+- 📎 [Ver no GitHub](https://github.com/eduoliveira1504/bigdataproj)
+- 📎 [Ver no StreamLit](https://bigdataproj.streamlit.app/)
 
 
