@@ -4,7 +4,7 @@ format: html
 ---
 
 <div style="text-align: center;">
-  <img src="imagens/teste.jpeg" alt="Foto de Eduardo de Oliveira Pereira" width="180" style="border-radius: 50%;">
+  <img src="imagens/edu3.jpg" alt="Foto de Eduardo de Oliveira Pereira" width="180" style="border-radius: 50%;">
 </div>
 
 # 👋 Olá, eu sou Eduardo!
@@ -22,7 +22,7 @@ Estudante de **Ciência de Dados**, entusiasta de **Machine Learning e Inteligê
 
 ## 💼 **Experiência Profissional**
 ### 📊 **Estagiário de Data Analytics e CRM Governance** | CNH Industrial | 2024 - Presente
-- Desenvolvimento de modelos de **Machine Learning** para previsão de tendências.  
+- Desenvolvimento de modelos de **Machine Learning** para previsão do volume de vendas de máquinas agricolas.  
 - Implementação de **ETL** e automação de processos de dados.  
 - Construção de **dashboards interativos** para visualização de métricas.  
 
@@ -34,13 +34,13 @@ Estudante de **Ciência de Dados**, entusiasta de **Machine Learning e Inteligê
 ---
 
 ## 📜 **Certificações**
-🏆 **Machine Learning – Udemy** *(Em Curso)*  
-🏆 **Deep Learning – Udemy** *(Em Curso)*  
-🏆 **Power BI – Data Science Academy** *(2024)*  
+- 🏆 **Deep Learning – Udemy** *(Em Curso)*
+- 🏆 **Machine Learning – Udemy** *(2025)*
+- 🏆 **Power BI – Data Science Academy** *(2024)*
+- 🏆 **CS50 – Harvard** *(2022)*
 
 ---
 
 ## 📫 Contato
 📧 Email: eduardo.olvieira1504@outlook.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-oliveira-pereira/) | [GitHub](https://github.com/eduoliveira1504)
-
